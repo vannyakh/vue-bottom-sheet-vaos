@@ -5,18 +5,18 @@
 ### NPM
 
 ```
-npm install 
+npm install @vannyakh/vue-bottom-sheet-vaos
 ```
 
 ### Yarn
 
 ```
-yarn add 
+yarn add @vannyakh/vue-bottom-sheet-vaos
 ```
 ### Bun
 
 ```
-bun add 
+bun add @vannyakh/vue-bottom-sheet-vaos
 ```
 
 ## Usage

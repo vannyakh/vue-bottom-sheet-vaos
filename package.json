@@ -1,6 +1,6 @@
 {
-  "name": "@webzlodimir/vue-bottom-sheet",
-  "version": "3.0.5",
+  "name": "@vannyakh/vue-bottom-sheet",
+  "version": "1.0.0",
   "private": false,
   "scripts": {
     "dev": "vite --config vite-demo.config.ts serve --host 0.0.0.0",
@@ -53,18 +53,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vaban-ru/vue-bottom-sheet.git"
+    "url": "git+https://github.com/vannyakh/vue-bottom-sheet-vaos.git"
   },
   "keywords": [
     "vue",
     "vuejs",
     "component",
-    "bottom-sheet"
+    "bottom-sheet",
+    "bottom-sheet-vaos"
+
   ],
-  "author": "vaban-ru",
+  "author": "vannya168",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vaban-ru/vue-bottom-sheet/issues"
+    "url": "https://github.com/vannyakh/vue-bottom-sheet-vaos/issues"
   },
-  "homepage": "https://github.com/vaban-ru/vue-bottom-sheet#readme"
+  "homepage": "https://github.com/vannyakh/vue-bottom-sheet-vaos#readme"
 }
