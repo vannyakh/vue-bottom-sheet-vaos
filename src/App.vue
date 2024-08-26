@@ -40,9 +40,7 @@
             v-model="canSwipe"
             checked
           />
-          <label class="form-check-label" for="canSwipe"
-          >Enable swipe to close</label
-          >
+          <label class="form-check-label" for="canSwipe">Enable swipe to close</label>
         </div>
       </div>
       <div class="col-md-4 col-12">
@@ -164,7 +162,7 @@ const maxHeight = ref(640)
 const clickToClose = ref(true)
 const overlayColorSelect = ref('#0000004D')
 const canSwipe = ref(true)
-const myBottomSheet = ref(null)
+const myBottomSheet = ref() as any
 
 const open = () => {
   myBottomSheet.value.open()
