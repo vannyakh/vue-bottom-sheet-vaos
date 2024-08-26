@@ -1,22 +1,22 @@
 <!-- ![Example](https://bs.vaban.ru/logo.jpg) -->
 
-# Vue Bottom Sheet  VAOS
+# Vue Bottom Sheet VAOS
 
 ### NPM
 
 ```
-npm install @vannyakh/vue-bottom-sheet-vaos
+npm install @vannya168/vue-bottom-sheet
 ```
 
 ### Yarn
 
 ```
-yarn add @vannyakh/vue-bottom-sheet-vaos
+yarn add @vannya168/vue-bottom-sheet
 ```
 ### Bun
 
 ```
-bun add @vannyakh/vue-bottom-sheet-vaos
+bun add @vannya168/vue-bottom-sheet
 ```
 
 ## Usage

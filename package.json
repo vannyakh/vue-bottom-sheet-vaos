@@ -1,5 +1,5 @@
 {
-  "name": "@vannyakh/vue-bottom-sheet",
+  "name": "@vannya168/vue-bottom-sheet",
   "version": "1.0.0",
   "private": false,
   "scripts": {
@@ -61,7 +61,6 @@
     "component",
     "bottom-sheet",
     "bottom-sheet-vaos"
-
   ],
   "author": "vannya168",
   "license": "MIT",
